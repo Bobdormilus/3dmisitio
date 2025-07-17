@@ -1,5 +1,14 @@
 header{
-    border: 3px solid rgb(243, 6, 204)
+    height: 300;
 }
-.top-header{background: rgb(21, 6, 240);}
-.botton-header{background: rgb(11, 224, 21);}
+.botton-header
+.logo_{
+    height: 100%;
+}
+.logo-a{
+    display: inline-block;
+    height: 100%;
+}
+.logo_img{
+    height: 100%;
+}
